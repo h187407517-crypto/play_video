@@ -27,7 +27,7 @@ function init(){
     const code = compressForUrl(v)
     enc.value = code
     // viewer uses param name `u`
-    link.value = window.location.pathname.replace(/[^/]*$/, '') + 'index.html?u=' + code
+    link.value = window.location.href.replace(/[^/]*$/, '') + 'index.html?u=' + code
   })
 
   clearBtn.addEventListener('click', ()=>{
