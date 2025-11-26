@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.vscode/
+.DS_Store
+env/
+*.log
+/.github/workflows/**/node_modules/
+/.cache

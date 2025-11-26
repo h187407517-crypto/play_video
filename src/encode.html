@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Mã hóa link video</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div class="app" style="padding:20px;">
+    <h2>Mã hóa URL (m3u8)</h2>
+    <p>Nhập URL video (m3u8) vào ô bên dưới để lấy chuỗi đã mã hóa. Dùng chuỗi đó ở `index.html?u=...`</p>
+
+    <div style="display:flex;gap:8px;flex-direction:column;max-width:900px">
+      <input id="rawUrl" placeholder="https://your.cdn/path/stream.m3u8" style="padding:8px;border-radius:6px;border:1px solid #ccc;width:100%" />
+      <div style="display:flex;gap:8px">
+        <button id="encodeBtn" style="padding:8px 12px;border-radius:6px">Mã hóa</button>
+        <button id="clearBtn" style="padding:8px 12px;border-radius:6px">Xóa</button>
+      </div>
+
+      <label>Chuỗi đã mã hóa:</label>
+      <div style="display:flex;gap:8px">
+        <input id="encoded" readonly style="flex:1;padding:8px;border-radius:6px;border:1px solid #ccc;background:#fafafa" />
+        <button id="copyBtn" style="padding:8px 12px;border-radius:6px">Copy</button>
+      </div>
+
+      <label>Link xem (sao chép và gửi cho viewer):</label>
+      <input id="viewerLink" readonly style="padding:8px;border-radius:6px;border:1px solid #ccc;background:#fafafa" />
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/lz-string@1.4.4/libs/lz-string.min.js"></script>
+  <script src="js/encode.js"></script>
+</body>
+</html>
