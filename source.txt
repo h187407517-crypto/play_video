@@ -4,7 +4,25 @@ https://video.twimg.com/amplify_video/1992620718035783680/pl/5TvSQMdZqry-BfhE.m3
 ## link shopee
 https://s.shopee.vn/8peDAfWtEy
 
+https://vt.tiktok.com/ZSHTBBwHqGfjV-LoKjq/
+
+
 https://shopee.vn/product/769085/3261115659?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkVEF1UmpGQXJVUWdGaTJ5MUVSVWVGWU5pNlN4NmJ1aWhuTEpzcmkwSTJLbGlHYkRUcVMxRitIN012Y1VabHQ4c0NySUFibC9UU1UySWRTZUNZaUJyUzNRZmJ0ME02WllGdURKRGFFRnRjMkJLMEhZRjRiMkVPVXNvKy95a3A1aVlnPT0&uls_trackid=5493e6f200ad&utm_campaign=id_XAgzBBzwFj&utm_content=----&utm_medium=affiliates&utm_source=an_17357880069&utm_term=e1b2xszp9q75
 
 ## banner
 https://motchillfm.io/728-x-90-phimtruyen.gif
+
+
+
+
+https://video.twimg.com/amplify_video/1991522212399181824/pl/0zbgfryiZKoCOmr2.m3u8?variant_version=1&tag=21
+
+/play_video/index.html?u=BYFxAcGcC4HpYG4EsAmBTA9gOhAdyQLYDmWAxhgbAIYHgA2SAZgJ4D6y6GsAjAJy-cArACZR3YQGZ+3AByzhAFlj1YABgBeAIyKMATsyQAtANIYAwgHkCu4VgISArjID8CKrqRUAdiHZpdkEgYXgC83ABkIFREIcLcQA
+
+
+https://video.twimg.com/amplify_video/1987464944854667264/pl/GmvNCgC-9Zz0xcsQ.m3u8?variant_version=1
+
+
+ffmpeg -ss 10 -i "https://video.twimg.com/amplify_video/1987464944854667264/pl/GmvNCgC-9Zz0xcsQ.m3u8?variant_version=1" -vframes 1 -q:v 2 thumbnail.jpg
+https://h187407517-crypto.github.io/play_video/index.html?u=BYFxAcGcC4HpYG4EsAmBTA9gOhAdyQLYDmWAxhgbAIYHgA2SAZgJ4D6y6GsAjAJwAcAdgAsANmG9hw-gFYxowQCZxserADiBBADkAwkV0BaXgC0AXgAYAHqUgBFLAQDMAV34B+BFQBOSKgDsQdjRvSCQMfwBebiA
+
