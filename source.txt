@@ -23,6 +23,5 @@ https://video.twimg.com/amplify_video/1991522212399181824/pl/0zbgfryiZKoCOmr2.m3
 https://video.twimg.com/amplify_video/1987464944854667264/pl/GmvNCgC-9Zz0xcsQ.m3u8?variant_version=1
 
 
-ffmpeg -ss 10 -i "https://video.twimg.com/amplify_video/1987464944854667264/pl/GmvNCgC-9Zz0xcsQ.m3u8?variant_version=1" -vframes 1 -q:v 2 thumbnail.jpg
+ffmpeg -ss 60 -i "https://video.twimg.com/amplify_video/1996887865943642114/pl/S9xdBGHHYFRW4mti.m3u8?variant_version=1&tag=21" -vframes 1 -q:v 2 thumbnail.jpg
 https://h187407517-crypto.github.io/play_video/index.html?u=BYFxAcGcC4HpYG4EsAmBTA9gOhAdyQLYDmWAxhgbAIYHgA2SAZgJ4D6y6GsAjAJwAcAdgAsANmG9hw-gFYxowQCZxserADiBBADkAwkV0BaXgC0AXgAYAHqUgBFLAQDMAV34B+BFQBOSKgDsQdjRvSCQMfwBebiA
-
